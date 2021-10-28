@@ -46,6 +46,11 @@ header {
     
     
 }
+.project-title {
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
 .skills ul {
     padding-top: 50px;
 }
